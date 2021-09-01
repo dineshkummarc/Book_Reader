@@ -52,20 +52,7 @@ Screen Shot
 <p align="center"><b>Share Book Form</b></p>
 <img src="https://github.com/TanzinaTani/book_house/blob/main/bookHouse_project/project_outlook/free_book.JPG">
 <p align="center"><b>Get Shared Book</b></p>
-<img src="https://github.com/TanzinaTani/Classroom/blob/master/Interface%20Picture/screenshot%20interface/course_setting.png">
-<p align="center"><b>Course Setting</b></p>
-<img src="https://github.com/TanzinaTani/Classroom/blob/master/Interface%20Picture/screenshot%20interface/schedule_listt.png">
-<p align="center"><b>Schedule List</b></p>
-<img src="https://github.com/TanzinaTani/Classroom/blob/master/Interface%20Picture/screenshot%20interface/create_schedule.png">
-<p align="center"><b>Create Schedule</b></p>
-<img src="https://github.com/TanzinaTani/Classroom/blob/master/Interface%20Picture/screenshot%20interface/schedule_interface.png">
-<p align="center"><b>Course Schedule Interface</b></p>
-<img src="https://github.com/TanzinaTani/Classroom/blob/master/Interface%20Picture/screenshot%20interface/whiteboard.png">
-<p align="center"><b>Whiteboard in a scheduled course</b></p>
-<img src="https://github.com/TanzinaTani/Classroom/blob/master/Interface%20Picture/screenshot%20interface/whiteboard_pdf.png">
-<p align="center"><b>Whiteboard writing PDF download Preview</b></p>
-<img src="https://github.com/TanzinaTani/Classroom/blob/master/Interface%20Picture/screenshot%20interface/routine.png">
-<p align="center"><b>Course Routine</b></p>
+
 
 # Referece:
 https://www.goodreads.com/
