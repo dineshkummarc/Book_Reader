@@ -121,9 +121,9 @@ input:focus {
  <button type="submit" name="submit"><i class="fa fa-search"></i></button>
 </form>
 <div class="profile">
-	<a href="user_profile.php" style="margin-left: 40px;">
-    Profile  <i class="fas fa-user-alt" style="width:20px;"></i>
-	</a>
+   <a href="user_profile.php" style="margin-left: 40px;">
+   Profile  <i class="fas fa-user-alt" style="width:20px;"></i>
+</a>
 </div>
 <a href="logout.php">Logout</a>
 </div>
