@@ -13,7 +13,6 @@ This project is made for book readers who wants to make their booklist and commu
 - Book Genre
 - Book Share
 - Search Book
-- Create Whiteboard 
 - Start Conversation
 - See other users profile
 - Admin Book Entry
