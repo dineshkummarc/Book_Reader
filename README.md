@@ -1,7 +1,7 @@
 # BOOK READER AND SHARE HOUSE
 
 # Motivation
-This project is made for book readers who wants to make their booklist and communicate with others readers. In this project, any user can share books with others member. Also, any user can start a dicussion. This project has taken ideas and used book information, photos as example from this cite from https://www.goodreads.com/ . 
+This project is made for book readers who wants to make their booklist and communicate with other readers. In this project, any user can share books with other members. Also, any user can start a dicussion. This project has taken ideas and used book information, photos as example from this cite https://www.goodreads.com/ . 
 
 ## Features of BOOK READ AND SHARE HOUSE
 - User Authentication (signin, signup)
