@@ -5,7 +5,7 @@ This project is made for book readers who wants to make their booklist and commu
 
 ## Features of BOOK READ AND SHARE HOUSE
 - User Authentication (signin, signup)
-- User Dashboard
+- Home Page
 - Profile Update 
 - List of Book  
 - My Booklist
@@ -44,7 +44,7 @@ Screen Shot
 <img src="https://github.com/TanzinaTani/book_house/blob/main/bookHouse_project/project_outlook/discussion_form.JPG">
 <p align="center"><b>Discussion Form </b></p>
 <img src="https://github.com/TanzinaTani/book_house/blob/main/bookHouse_project/project_outlook/user_communication.JPG">
-<p align="center"><b>Users Communication/Comment</b></p>
+<p align="center"><b>Users Communication</b></p>
 <img src="https://github.com/TanzinaTani/book_house/blob/main/bookHouse_project/project_outlook/user_profile.png">
 <p align="center"><b>User Profile & Update Profile</b></p>
 <img src="https://github.com/TanzinaTani/book_house/blob/main/bookHouse_project/project_outlook/discussion_form.JPG">
