@@ -52,6 +52,5 @@ Screen Shot
 <img src="https://github.com/TanzinaTani/book_house/blob/main/bookHouse_project/project_outlook/free_book.JPG">
 <p align="center"><b>Get Shared Book</b></p>
 
-
 # Referece:
 https://www.goodreads.com/
